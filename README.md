@@ -45,8 +45,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kuroyam1&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kuroyam1&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
 </div>
 
 ---
